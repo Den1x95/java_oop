@@ -10,19 +10,16 @@
  */
 
 /**
- * P0122
- * Primjer blok komentara.
+ * P0111 Primjer okvira Java programa, prvi Java program. 
+ * Naredba za kompajliranje: javac ImePrograma.java 
+ * Naredba za pokretanje programa: java ImePrograma
  */
-public class P0122 {
+public class P0111 {
 
-    public static void main(String[] args) {
+	public static void main(String[] args) {
 
-        /*
-         * ovo
-         * je
-         * blok
-         * komentar
-         */
-    }
+		System.out.println("Hello World! Ovo je primjer P0111");
+
+	}
 
 }

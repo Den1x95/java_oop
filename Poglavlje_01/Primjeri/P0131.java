@@ -1,7 +1,12 @@
 /*
- * Objektno-orijentirano programiranje u Javi.
- * 
- * Copyright © 2020 Vedran Novak
+ **********************************************************
+ *                                                        *
+ *       Objektno-orijentirano programiranje u Javi.      *
+ *                                                        *
+ *             Copyright © 2022 Vedran Novak              *
+ *                  www.vedrannovak.com                   *
+ *                                                        *
+ **********************************************************
  */
 
 /**
