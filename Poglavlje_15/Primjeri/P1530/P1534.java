@@ -3,7 +3,7 @@
  *                                                        *
  *       Objektno-orijentirano programiranje u Javi.      *
  *                                                        *
- *             Copyright © 2022 Vedran Novak              *
+ *             Copyright © 2024 Vedran Novak              *
  *                  www.vedrannovak.com                   *
  *                                                        *
  **********************************************************
